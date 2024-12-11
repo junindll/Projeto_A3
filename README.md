@@ -27,7 +27,7 @@ pip install mysql-connector-python
 
 1. Abra o MySQL e crie um banco de dados chamado `sistema_clientes` com o seguinte comando:
 ```
-CREATE DATABASE cadastro_clientes;
+CREATE DATABASE sistema_clientes;
 ```
 2. Após criar o banco de dados, crie uma tabela chamada `clientes` para armazenar os dados. O código para criar a tabela é:
 ```
